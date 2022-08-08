@@ -1,4 +1,4 @@
-## ⚽Stats
+## 🏃Stats
 ![k-ms1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-ms1998&show_icons=true&theme=cobalt&count_private=true)
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=k_ms1998)](https://solved.ac/k_ms1998)
